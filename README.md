@@ -29,8 +29,10 @@ const tejas = {
 }
 ```
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tejaspachgade2315&show_icons=true&card_width=400&hide_border=true&theme=transparent&rank_icon=github)](https://github.com/tejaspachgade2315/github-readme-stats)
-[![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=tejaspachgade2315&theme=transparent&card_width=400&type=png&mode=daily&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/tejaspachgade2315/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspachgade2315&layout=donut-vertical&hide_border=true&show_icons=true&theme=transparent)](https://github.com/tejaspachgade2315/github-readme-stats)
+[![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=tejaspachgade2315&theme=transparent&card_width=400&type=png&mode=daily&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/tejaspachgade2315/github-readme-stats)
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tejaspachgade2315's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tejaspachgade2315&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaspachgade2315&label=Profile%20views&color=0e75b6&style=flat" alt="tejaspachgade2315" /> </p>
 
 ---
