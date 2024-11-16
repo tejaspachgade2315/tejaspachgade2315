@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=gradient&font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Tejas+Murlidhar+Pachgade%F0%9F%91%8B)]()
 
+![Profile Views](https://komarev.com/ghpvc/?username=tejaspachgade2315&color=orange)
+
 Final Year Electronics and Telecommunication Engineering Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="16">
 </br>
 SGGSIE&T, Nanded <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -34,6 +36,6 @@ const tejas = {
 [![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=tejaspachgade2315&theme=transparent&card_width=400&type=png&mode=daily&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/tejaspachgade2315/github-readme-stats)
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tejaspachgade2315's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tejaspachgade2315&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaspachgade2315&label=Profile%20views&color=0e75b6&style=flat" alt="tejaspachgade2315" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaspachgade2315&label=Profile%20views&color=0e75b6&style=flat" alt="tejaspachgade2315" /> </p>-->
 
 ---
