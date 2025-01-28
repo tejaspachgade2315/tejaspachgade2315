@@ -9,6 +9,8 @@
 
 Final Year Electronics and Telecommunication Engineering Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="16">
 </br>
+An Electronics and Telecommunication Engineering Student Passionate about Programming and Development
+</br>
 SGGSIE&T, Nanded <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
