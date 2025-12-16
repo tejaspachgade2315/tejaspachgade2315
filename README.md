@@ -7,7 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tejaspachgade2315&color=orange)
 
-Final Year Electronics and Telecommunication Engineering Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="16">
+Graduated from Electronics and Telecommunication Engineering Department <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="16">
 </br>
 An Electronics and Telecommunication Engineering Student Passionate about Programming and Development
 </br>
@@ -24,12 +24,12 @@ SGGSIE&T, Nanded <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ```javascript
 const tejas = {
-  pronouns: "he" | "him",
+  pronouns: "he" | "him" | "his",
   code: [Java, Python, CPP, SQL, Javascript, HTML, CSS, Bootstrap, TailwindCSS],
   tools: [GitHub, VSCode, Git, Postman, Latex, FluidSIM],
-  databases: [MySQL, MongoDB],
+  databases: [MySQL, MongoDB, Postgres],
   technologies: [React.js, Redux, Node.js, Express.js, Next.js],
-  status: "Pursuing Final year of B.Tech"
+  status: "Graduated"
 }
 ```
 
